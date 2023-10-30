@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LAB1_ContentResolver</string>
+    <string name="button">Query ContentProvider</string>
+    <string name="text">Check Logcat for query result</string>
+</resources>
